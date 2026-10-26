@@ -1,0 +1,2 @@
+Hero: Sir Alistair | Score: 4 | Result: FAILED
+Hero: Sir Alistair | Score: 77 | Result: SURVIVED
